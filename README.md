@@ -3,3 +3,8 @@
 # The St. Matthew effect and reserves of Norwegian petroleum fields
 The data and codes for the [LinkedIn article]()  
 The source data were retrieved from [Archive resource accounts - The Norwegian Offshore Directorate](https://www.sodir.no/en/facts/resource-accounts/arcive-resource-acconts/). 
+
+**Requirements: ** 
+```
+conda env create -n st-matthew --file reqs.yml
+```
